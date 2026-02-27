@@ -1,4 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jake%20Rains&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=The%20GenAI%20Alien%20👽&descSize=24&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://raw.githubusercontent.com/jakerains/jakerains/main/assets/header-banner.png" width="100%" alt="Jake Rains — The GenAI Alien"/>
+
+<div align="center">
+
+# Jake Rains &nbsp;·&nbsp; The GenAI Alien 👽
+
+</div>
 
 <div align="center">
 
@@ -56,17 +62,18 @@ Also known as **Kain Jares** out in the wild.
 
 ---
 
-## 🛸 Open Source
+## 🛸 Open Source & Tools
 
-<div align="center">
-
-[![AgentSkills](https://github-readme-stats.vercel.app/api/pin/?username=jakerains&repo=AgentSkills&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=C9D1D9)](https://github.com/jakerains/AgentSkills)
-[![skills](https://github-readme-stats.vercel.app/api/pin/?username=jakerains&repo=skills&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=C9D1D9)](https://github.com/jakerains/skills)
-
-[![StoryFox](https://github-readme-stats.vercel.app/api/pin/?username=jakerains&repo=StoryFox&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=C9D1D9)](https://github.com/jakerains/StoryFox)
-[![webgpustudio](https://github-readme-stats.vercel.app/api/pin/?username=jakerains&repo=webgpustudio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=C9D1D9)](https://github.com/jakerains/webgpustudio)
-
-</div>
+| | Project | Description | Stack |
+|---|---|---|---|
+| 🧠 | [**AgentSkills**](https://github.com/jakerains/AgentSkills) | A collection of skills and plugins for Claude Code — `npx add-skill jakerains/AgentSkills` | AI · CLI |
+| ⚡ | [**webgpustudio**](https://github.com/jakerains/webgpustudio) | Open source core of WebGPU.Studio — 14+ AI models running fully in-browser | TypeScript · WebGPU |
+| 📖 | [**StoryFox**](https://github.com/jakerains/StoryFox) | On-device illustrated storybook generator using Apple Intelligence | Swift · macOS |
+| 🍋 | [**CitrusRules**](https://github.com/jakerains/CitrusRules) | Lightweight rules utilities for JS/TS projects | TypeScript |
+| 🍊 | [**CitrusVer**](https://github.com/jakerains/citrusver) | Tiny CLI to bump semantic versions with a citrusy twist | Node · CLI |
+| 🔄 | [**ZestSync**](https://github.com/jakerains/ZestSync) | Lightweight, menu-driven backup manager for macOS — zero deps beyond bash and rsync | Shell · macOS |
+| 🚀 | [**DreamHost-Deployer**](https://github.com/jakerains/DreamHost-Deployer) | Deploy static sites to DreamHost via rsync / GitHub Actions | CI/CD |
+| 🍋 | [**lemon-aid**](https://github.com/jakerains/lemon-aid) | Handy scripts and helpers for creative AI workflows | Utilities · AI |
 
 ---
 
