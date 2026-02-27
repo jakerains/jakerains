@@ -1,10 +1,4 @@
-<img src="https://raw.githubusercontent.com/jakerains/jakerains/main/assets/header-banner-v2.png" width="100%" alt="Jake Rains — The GenAI Alien"/>
-
-<div align="center">
-
-# Jake Rains &nbsp;·&nbsp; The GenAI Alien 👽
-
-</div>
+<img src="https://raw.githubusercontent.com/jakerains/jakerains/main/assets/header-banner-v3.png" width="100%" alt="Jake Rains — The GenAI Alien"/>
 
 <div align="center">
 
