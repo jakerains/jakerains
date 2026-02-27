@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jakerains/jakerains/main/assets/header-banner-v3.png" width="100%" alt="Jake Rains — The GenAI Alien"/>
+<img src="https://raw.githubusercontent.com/jakerains/jakerains/main/assets/header-banner-v4.png" width="100%" alt="Jake Rains — The GenAI Alien"/>
 
 <div align="center">
 
