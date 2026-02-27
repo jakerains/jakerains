@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=Building+AI-native+tools+🛸;Agentic+workflows+%26+voice+AI+⚡;WebGPU+%7C+Apple+Intelligence+%7C+MCP;vibe+coding+at+the+edge+of+possible+🌌;npx+skills+—+open+agent+tools+for+everyone)](https://github.com/jakerains)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Building+AI-native+tools+%F0%9F%9B%B8;storyfox.app+%E2%80%94+on-device+AI+storybooks+%F0%9F%A6%8A;webgpu.studio+%E2%80%94+14%2B+AI+models+in+your+browser+%E2%9A%A1;dialadecade.com+%E2%80%94+talk+to+history+%F0%9F%93%9E;vibe+coding+at+the+edge+of+possible+%F0%9F%8C%8C)](https://jakerains.com/projects)
 
 <br/>
 
@@ -38,7 +38,25 @@ Also known as **Kain Jares** out in the wild.
 
 ---
 
-## 🛸 What I'm Building
+## 🚀 Shipped Projects
+
+| | Project | Description |
+|---|---|---|
+| 🦊 | [**StoryFox**](https://storyfox.app) | AI-illustrated children's storybooks generated on-device with Apple Intelligence — painterly, Pixar-style, or pencil sketch |
+| ⚡ | [**WebGPU.Studio**](https://webgpu.studio) | In-browser AI playground running 14+ models (speech, vision, SAM3, MusicGen) entirely on your device via WebGPU |
+| 📞 | [**Dial a Decade**](https://dialadecade.com) | Voice conversations with AI historical figures across five eras — 1620 Mayflower to 1987 Wall Street |
+| 🍋 | [**LemonNotes**](https://lemonnotes.app) | Browser-based meeting recorder that transcribes, identifies speakers, and auto-generates structured notes |
+| ☕ | [**Beanventory**](https://beanventory.com) | Inventory, recipes, and ordering for coffee shops — with forecasting, waste tracking, and Square POS sync |
+| 🌿 | [**LeafIQ**](https://leafiq.online) | AI product recommendations, inventory, and customer insights for cannabis retailers |
+| 🌍 | [**Siouxland.online**](https://siouxland.online) | Real-time observability dashboard — weather, traffic, air quality, river levels, and more for Sioux City |
+| 📰 | [**Shitty.news**](https://shitty.news) | Daily AI-written satirical news digest covering politics, tech, sports, and everything in between |
+| 💩 | [**Paid to Poop**](https://paidtopoop.com) | PWA that calculates your exact earnings during workplace bathroom breaks. You're welcome. |
+| 📄 | [**ShittyDocs**](https://shittydocs.com) | Satirical AI document generator that's surprisingly useful for rapid prototyping |
+| 🤖 | [**AI Siouxland**](https://aisiouxland.com) | Hands-on AI workshops for small businesses — practical workflows, no coding required |
+
+---
+
+## 🛸 Open Source
 
 <div align="center">
 
@@ -47,9 +65,6 @@ Also known as **Kain Jares** out in the wild.
 
 [![StoryFox](https://github-readme-stats.vercel.app/api/pin/?username=jakerains&repo=StoryFox&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=C9D1D9)](https://github.com/jakerains/StoryFox)
 [![webgpustudio](https://github-readme-stats.vercel.app/api/pin/?username=jakerains&repo=webgpustudio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=C9D1D9)](https://github.com/jakerains/webgpustudio)
-
-[![elevenlabs-mcp](https://github-readme-stats.vercel.app/api/pin/?username=jakerains&repo=elevenlabs-mcp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=C9D1D9)](https://github.com/jakerains/elevenlabs-mcp)
-[![aisdkquestionnaire](https://github-readme-stats.vercel.app/api/pin/?username=jakerains&repo=aisdkquestionnaire&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=C9D1D9)](https://github.com/jakerains/aisdkquestionnaire)
 
 </div>
 
