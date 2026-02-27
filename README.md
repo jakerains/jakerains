@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/jakerains/jakerains/main/assets/kain-github.jpeg" width="260" alt="Kain Jares — The GenAI Alien"/>
+<img align="right" src="https://raw.githubusercontent.com/jakerains/jakerains/main/assets/alien-workstation.png" width="260" alt="Kain Jares at the workstation"/>
 
 ### 👽 Hey, I'm Jake
 
