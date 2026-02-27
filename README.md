@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding" style="border-radius:12px"/>
+<img align="right" src="https://raw.githubusercontent.com/jakerains/jakerains/main/assets/alien-coder.png" width="260" alt="alien coder"/>
 
 ### 👽 Hey, I'm Jake
 
