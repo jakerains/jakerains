@@ -7,7 +7,8 @@
 <br/>
 
 [![Twitter/X](https://img.shields.io/badge/@genaialien-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/genaialien)
-[![Website](https://img.shields.io/badge/lemniq.com-7C3AED?style=for-the-badge&logo=safari&logoColor=white)](https://lemniq.com)
+[![Personal Site](https://img.shields.io/badge/jakerains.com-06B6D4?style=for-the-badge&logo=safari&logoColor=white)](https://jakerains.com)
+[![LemnIQ](https://img.shields.io/badge/lemniq.com-7C3AED?style=for-the-badge&logo=safari&logoColor=white)](https://lemniq.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=jakerains&label=PROFILE+VIEWS&color=A78BFA&style=for-the-badge)](https://github.com/jakerains)
 
 </div>
@@ -107,7 +108,7 @@ Also known as **Kain Jares** out in the wild.
 
 ### 🌐 Find me
 
-[Twitter/X](https://x.com/genaialien) · [lemniq.com](https://lemniq.com) · [GitHub](https://github.com/jakerains)
+[Twitter/X](https://x.com/genaialien) · [jakerains.com](https://jakerains.com) · [lemniq.com](https://lemniq.com) · [GitHub](https://github.com/jakerains)
 
 </div>
 
