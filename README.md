@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jakerains/jakerains/main/assets/header-banner-v4.png" width="100%" alt="Jake Rains — The GenAI Alien"/>
+<img src="https://raw.githubusercontent.com/jakerains/jakerains/main/assets/header-banner-jake.png" width="100%" alt="Jake Rains — Building AI-native tools"/>
 
 <div align="center">
 
@@ -15,12 +15,12 @@
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/jakerains/jakerains/main/assets/alien-workstation.png" width="260" alt="Kain Jares at the workstation"/>
+<img align="right" src="https://raw.githubusercontent.com/jakerains/jakerains/main/assets/jake-workstation.png" width="260" alt="Jake Rains cartoon avatar at an AI workstation"/>
 
-### 👽 Hey, I'm Jake
+### 👋 Hey, I'm Jake
 
 I build **GenAI-native tools and agents** that push into weird territory.
-Also known as **Kain Jares** out in the wild.
+Mostly the useful kind of weird: voice systems, local AI, creative tools, tiny CLIs, and anything that feels like it shipped from ten minutes in the future.
 
 **Currently obsessed with:**
 
@@ -28,11 +28,11 @@ Also known as **Kain Jares** out in the wild.
 - 🎙️ **Voice AI** via ElevenLabs
 - 🍎 **On-device Apple Intelligence** (macOS 26)
 - ⚡ **WebGPU** doing things it wasn't supposed to
-- 🛸 **`npx skills`** — open agent skills for everyone
+- 🧰 **`npx skills`** — open agent skills for everyone
 
 <br/>
 
-> *"The aliens didn't come from space. They shipped from a terminal."*
+> *"The best tools feel a little impossible right before they ship."*
 
 <br clear="right"/>
 
@@ -56,7 +56,7 @@ Also known as **Kain Jares** out in the wild.
 
 ---
 
-## 🛸 Open Source & Tools
+## 🧰 Open Source & Tools
 
 | | Project | Description | Stack |
 |---|---|---|---|
