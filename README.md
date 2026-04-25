@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/jakerains/jakerains/main/assets/header-banner-jake.png" width="100%" alt="Jake Rains — Building AI-native tools"/>
+<img src="https://raw.githubusercontent.com/jakerains/jakerains/main/assets/header-banner-jake.png" width="100%" alt="Jake Rains — Building cool things"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Building+AI-native+tools+%F0%9F%9B%B8;storyfox.app+%E2%80%94+on-device+AI+storybooks+%F0%9F%A6%8A;webgpu.studio+%E2%80%94+14%2B+AI+models+in+your+browser+%E2%9A%A1;dialadecade.com+%E2%80%94+talk+to+history+%F0%9F%93%9E;vibe+coding+at+the+edge+of+possible+%F0%9F%8C%8C)](https://jakerains.com/projects)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Building+cool+things+%F0%9F%9A%80;storyfox.app+%E2%80%94+on-device+AI+storybooks+%F0%9F%A6%8A;webgpu.studio+%E2%80%94+14%2B+AI+models+in+your+browser+%E2%9A%A1;dialadecade.com+%E2%80%94+talk+to+history+%F0%9F%93%9E;vibe+coding+at+the+edge+of+possible+%F0%9F%8C%8C)](https://jakerains.com/projects)
 
 <br/>
 
