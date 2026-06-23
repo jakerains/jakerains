@@ -60,6 +60,7 @@ Mostly the useful kind of weird: voice systems, local AI, creative tools, tiny C
 
 | | Project | Description | Stack |
 |---|---|---|---|
+| 🎬 | [**Vellum**](https://github.com/jakerains/vellum) | Visual feedback interface for AI-edited video — pin time-coded notes your coding agent can read | Node · HyperFrames |
 | 🧠 | [**AgentSkills**](https://github.com/jakerains/AgentSkills) | A collection of skills and plugins for Claude Code — `npx add-skill jakerains/AgentSkills` | AI · CLI |
 | ⚡ | [**webgpustudio**](https://github.com/jakerains/webgpustudio) | Open source core of WebGPU.Studio — 14+ AI models running fully in-browser | TypeScript · WebGPU |
 | 📖 | [**StoryFox**](https://github.com/jakerains/StoryFox) | On-device illustrated storybook generator using Apple Intelligence | Swift · macOS |
